@@ -1,0 +1,35 @@
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.csproj.AssemblyReference.cache
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.Ask.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.BOSimple.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.DataProvider.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.Loodsman.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.LoodsmanObjects.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\Interop.PDMObjects.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.csproj.ResolveComReference.cache
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\bin\SampleNetPlugin.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\bin\SampleNetPlugin.pdb
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\bin\Ascon.Plm.Loodsman.PluginSDK.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\bin\Interop.Loodsman.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.csproj.CopyComplete
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.dll
+C:\Program Files (x86)\ASCON\Loodsman\SDK\Client\Plugins\C#\SampleNetPlugin\obj\Debug\SampleNetPlugin.pdb
+C:\Users\Администратор\source\repos\abdurozik\bin\SampleNetPlugin.dll
+C:\Users\Администратор\source\repos\abdurozik\bin\SampleNetPlugin.pdb
+C:\Users\Администратор\source\repos\abdurozik\bin\Ascon.Plm.Loodsman.PluginSDK.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.Ask.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.BOSimple.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.DataProvider.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.Loodsman.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.PDMObjects.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.csproj.ResolveComReference.cache
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.csproj.CopyComplete
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.pdb
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.LoodsmanObjects.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\Interop.LoodsmanServerApplication.dll
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.FormPlugin.resources
+C:\Users\Администратор\source\repos\abdurozik\obj\Debug\SampleNetPlugin.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\abdurozik\bin\SampleNetPlugin.dll.config
